@@ -14,4 +14,4 @@ Just a small project where you can drag text onto a picture. Originally I wanted
 ![Creator](https://github.com/user-attachments/assets/ed566802-c1bd-4594-b579-6f34b048fd1a)
 1. Select the preset by that it is meant to select the positions created in the editor page.
 2. Select the databese by that it is meant to select a txt file with the names and seats like in the "input.txt" file.
-   By adding the databese the pictures will be created.
+   By adding the databese the pictures will be created..
